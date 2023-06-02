@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de teste</title>
+</head>
+<body>
+    <h1> INTELIGENCIA ARTIFICIAL (A.I.)</h1>
+    <h3>
+        <hr>
+        <P>
+            <font color="green">           
+            Por muito tempo, pensou-se que a <MARK>inteligência artificial (IA)</MARK> era um mito, um produto da ficção científica que nunca se tornaria realidade.
+            Como exemplo da <abbr title="Inteligência Artificial">IA</abbr>, tem como exemplo o <a href="https://en.wikipedia.org/wiki/ChatGPT">ChatGPT</a><sup>TM</sup>.
+        A ideia era de que máquinas jamais poderiam ter características que lembrassem a inteligência, uma qualidade exclusivamente humana.
+        Entendia-se como duas coisas distintas: o cérebro humano – analítico, criativo e emocional e os equipamentos desenvolvidos por ele.
+        As primeiras revoluções industriais criaram equipamentos que substituíam a mão de obra braçal, realizando com maior eficiência e menor custo o trabalho de muitos homens.
+        <u>Hoje, muita coisa mudou e já se sabe que o potencial das máquinas é bem maior.</u>
+        E, em vários casos, elas já estão sendo empregadas em tarefas antes vistas como “intelectuais”.
+        Isso quer dizer que esses dispositivos possuem um intelecto?
+        Não exatamente, pois, apesar de a comparação ser válida, a <i>“inteligência”</i> das máquinas é bem diferente da nossa.
+        Seja como for, o importante é que, atualmente, todo mundo já reconhece que a inteligência artificial é uma realidade.
+        O que deve ser feito é ampliar o entendimento de seus mecanismos e a compreensão quanto às possibilidades que ela proporciona.
+        É um desafio sobretudo para empresários e gestores, que estão sempre em busca de maior produtividade em todos os setores.
+        Com isso, a dúvida de todos gira em torno de:
+        <ol>
+            <li> Como funciona a Inteligência Artificial?</li>
+            <ul>
+            <small>
+                <li>como acessar</li>
+                <li>qual comando usar</li>
+                <li>o que usar</li>
+            </small>
+            </ul>
+            <li>Qual é o principal objetivo da Inteligência Artificial?</li>
+            <li>Mitos e verdades sobre Inteligência Artificial</li>
+            <li>Quais são os desafios de usar Inteligência Artificial?</li>
+            <li>Vantagens e desvantagens da Inteligência Artificial</li>
+            <li>Por que a IA tem se tornado tão estratégica e quais são seus riscos?</li>
+        
+        </ol>
+            <hr>
+    <blockquote>       
+    <h4>
+        <small>
+        “A criação bem-sucedida de inteligência artificial seria o maior evento na história da humanidade. Infelizmente, pode também ser o último, a menos que aprendamos a evitar os riscos”
+        <br>
+        <sub>Stephen Hawking, <i>físico teórico</i></sub>
+        </small>
+    </h4>
+    </blockquote>       
+           <hr>
+           
+    </P>
+   </font>
+    </P>   
+    </h3>
+</body>
+</html>
